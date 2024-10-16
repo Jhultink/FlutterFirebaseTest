@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695958919779",
+    "project_id": "rpm-drive-dev",
+    "storage_bucket": "rpm-drive-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695958919779:android:46cc9980d2e6e0eb8d7656",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcdq3-BdGAjyYBcXasqc7TC0l7B6bXxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695958919779:android:10381e04e7a3dff58d7656",
+        "android_client_info": {
+          "package_name": "com.loadrpm.Ike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcdq3-BdGAjyYBcXasqc7TC0l7B6bXxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
